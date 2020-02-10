@@ -1,0 +1,1 @@
+para subir un proyecto hay que crear la carpeta de puclic, y esta lleva los archivos que se necesiten de js y css pero lo mas importante es subir el .htaccess
